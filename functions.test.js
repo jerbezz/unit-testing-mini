@@ -33,6 +33,4 @@ test("returnTwo() should return 2.", () => {
       test("divide() should return 2.", () => {
         expect(divide( 8, 4 ) ).toEqual( 2 );
       });
-
   })
-  
